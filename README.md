@@ -74,13 +74,13 @@ cd FilePackerUnpacker
 2. Compile the Java source code:
 
 ```bash
-javac src/*.java
+javac *.java
 ```
 
 3. Run the application:
 
 ```bash
-java src/
+java FilePackerApplication 
 ```
 
 ---
